@@ -16,7 +16,7 @@ import Projects from "./components/pages/Projects";
 import Publications from "./components/pages/Publications";
 import Products from "./components/pages/products";
 import "./App.css";
-import Cardslider from "./components/Cardslider";
+
 
 
 const AppContent = () => {
